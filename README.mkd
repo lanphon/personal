@@ -1,3 +1,3 @@
 # Introduction
 
-This git repo would be teh collection of some personal document.
+This git repo would be the collection of some personal document.
